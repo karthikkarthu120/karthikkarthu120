@@ -1,9 +1,7 @@
 # 💫 Hi 👋, I'm P G Karthik
-**A MCA Student Currently**
+**I am currently pursuing an MCA degree.**
 
 Email Me 👉 ✉️ **karthikkarthu120@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 📫 **How to reach me:** karthikkarthu120@gmail.com
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/karthik.karthu.904) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iam_karthi_20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pg-karthik-380b7a302) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KarthikKarthu11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karthikkarthu120@gmail.com) 
@@ -33,8 +31,8 @@ Email Me 👉 ✉️ **karthikkarthu120@gmail.com** For Collaboration/Project or
 ---
 [![](https://visitcount.itsvg.in/api?id=karthikkarthu120&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/karthikkarthu120) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/karthikkarthu120) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
